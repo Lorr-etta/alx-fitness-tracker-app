@@ -1,9 +1,9 @@
+import WorkoutLogger from "./components/WorkoutLogger";
+
 export default function App() {
   return (
-    <div className="flex items-center justify-center h-screen bg-gray-100">
-      <h1 className="text-4xl font-bold text-blue-600">
-        Fitness Tracker App 
-      </h1>
+    <div className="min-h-screen bg-gray-100 p-6">
+      <WorkoutLogger />
     </div>
-  )
+  );
 }
