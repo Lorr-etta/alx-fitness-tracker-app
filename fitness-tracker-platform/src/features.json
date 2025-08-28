@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Workout Logs",
+    "description": "Log your daily workouts and monitor your training history.",
+    "icon": "🏋🏾‍♂️"
+  },
+  {
+    "id": 2,
+    "title": "Progress Tracking",
+    "description": "Track your workouts, calories, and progress over time.",
+    "icon": "📈"
+  },
+  {
+    "id": 3,
+    "title": "Dashboard",
+    "description": "Get a quick overview of your fitness activities and goals.",
+    "icon": "📊"
+  },
+  {
+    "id": 4,
+    "title": "My Profile",
+    "description": "Manage your personal information and fitness preferences.",
+    "icon": "👤"
+  }
+]

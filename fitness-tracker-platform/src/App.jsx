@@ -1,9 +1,17 @@
-import WorkoutLogger from "./components/WorkoutLogger";
+import Header from "./components/Header";
+import Hero from "./components/Hero";
+import Features from "./components/Features";
+import SocialMedia from "./components/SocialMedia";
 
-export default function App() {
+function App() {
   return (
-    <div className="min-h-screen bg-gray-100 p-6">
-      <WorkoutLogger />
-    </div>
+    <>
+      <Header />
+      <Hero />
+      <Features />
+      <SocialMedia />
+    </>
   );
 }
+
+export default App;
